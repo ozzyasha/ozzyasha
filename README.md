@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=50&duration=4000&pause=300&color=F7AA55&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=2000&height=140&lines=Hi+%F0%9F%91%8B+!+I'm+Natallia+Mazur;I'm+currently+studying+Swift+language+to+become+an+iOS+developer+%E2%9C%A8" width="70%" />
+<br><br>
 
 <!--
 **ozzyasha/ozzyasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
